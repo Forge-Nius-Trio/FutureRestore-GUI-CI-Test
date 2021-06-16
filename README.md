@@ -1,2 +1,2 @@
-# CI Testing for FutureRestore.
+# CI Testing for FutureRestore GUI.
 Ignore me.
